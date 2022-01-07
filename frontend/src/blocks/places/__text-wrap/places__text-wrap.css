@@ -1,0 +1,6 @@
+.places__text-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px 20px 25px;
+}
