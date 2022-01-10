@@ -1,5 +1,5 @@
 # react-mesto-api-full
 Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории `backend/`, а фронтенд - в `frontend/`. 
   
-# фронтенд сайта доступен по адресу http://general4056-mesto.nomoredomains.rocks/cards
-# бэкенд сайта доступен по адресу http://api.general4056-mesto.nomoredomains.rocks/cards
+# фронтенд сайта доступен по адресу https://general4056-mesto.nomoredomains.rocks/cards
+# бэкенд сайта доступен по адресу https://api.general4056-mesto.nomoredomains.rocks/cards

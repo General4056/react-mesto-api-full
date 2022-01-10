@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://api.general4056-mesto.nomoredomains.rocks';
+export const BASE_URL = 'https://api.general4056-mesto.nomoredomains.rocks';
 
 function checkRes(res) {
   if (res.ok) {
